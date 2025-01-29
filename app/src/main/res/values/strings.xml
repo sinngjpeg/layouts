@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="first_button">Primeiro</string>
+    <string name="second_button">Segundo Botão</string>
+    <string name="third_button">Terceiro Botão</string>
+    <string name="fourth_button">Quarto Botão</string>
+    <string name="text_margin">Margin</string>
+    <string name="text_padding">Padding</string>
+    <string name="text_muralha_da_china">Mururalha da China</string>
+    <string name="text_title">Título</string>
+    <string name="text_sub_title">Subtítulo</string>
+    <string name="text_telefone">Telefone</string>
+    <string name="text_warning">Avisos por:</string>
+    <string name="text_email">Email</string>
+    <string name="text_name">Name:</string>
+</resources>
