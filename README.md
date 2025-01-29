@@ -96,6 +96,31 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
 
 ---
 
+### 🃏 **CardView**
+- O **CardView** é um contêiner estilizado que permite exibir conteúdo com bordas arredondadas, sombras e elevação. É amplamente usado para destacar informações em listas ou seções visuais.
+- Ideal para criar cartões visuais modernos no aplicativo.
+- **Propriedades principais**:
+  - `cardCornerRadius`: Define o raio das bordas arredondadas.
+  - `cardElevation`: Define a elevação (sombra) do cartão.
+  - `contentPadding`: Define o espaço interno dentro do CardView.
+
+#### Exemplo Visual:
+*(Adicione aqui uma imagem demonstrando o uso do CardView)*
+
+---
+
+### 🖱️ **ScrollView**
+- O **ScrollView** é um contêiner que permite rolar o conteúdo quando ele excede o tamanho da tela. Ele suporta apenas um filho direto, mas esse filho pode conter várias views agrupadas (como um LinearLayout).
+- Ideal para layouts com muito conteúdo vertical que não cabe na tela de uma vez.
+- Existe também o equivalente horizontal: **HorizontalScrollView**.
+- **Propriedades principais**:
+  - Funciona automaticamente quando o conteúdo excede os limites da tela.
+
+#### Exemplo Visual:
+*(Adicione aqui uma imagem demonstrando o uso do ScrollView)*
+
+---
+
 ## 🛠️ **Propriedades Importantes**
 
 ### 📏 Margin
