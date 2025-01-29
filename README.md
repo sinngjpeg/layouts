@@ -9,6 +9,10 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
 
 ## 🚀 **Gerenciadores de Layout**
 
+![GerenciadorDeLayout](images/layouts.png)
+
+
+
 ### 🖼️ **FrameLayout**
 - O **FrameLayout** é um gerenciador simples que organiza as views empilhando-as umas sobre as outras.
 - Útil para exibir uma única view ou sobrepor elementos.
@@ -18,8 +22,6 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
 
 #### Exemplo Visual:
 ![FrameLayout](images/framelayout.png)
-
-*(Adicione aqui uma imagem do exemplo com FrameLayout)*
 
 ---
 
@@ -34,7 +36,6 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
 
 #### Exemplo Visual:
 ![GridLayout](images/gridlayout.png)
-*(Adicione aqui uma imagem do exemplo com GridLayout)*
 
 ---
 
@@ -47,9 +48,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - `gravity`: Alinha todas as views dentro do LinearLayout.
 
 #### Exemplo Visual:
-![Texto Alternativo](caminho/para/imagem.extensão)
-
-*(Adicione aqui uma imagem do exemplo com LinearLayout)*
+![LinearLayout](images/linearlayout.png)
 
 ---
 
@@ -61,9 +60,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - `layout_toRightOf`, `layout_below`, etc.: Posicionam a view em relação a outras views.
 
 #### Exemplo Visual:
-![Texto Alternativo](caminho/para/imagem.extensão)
-
-*(Adicione aqui uma imagem do exemplo com RelativeLayout)*
+![RelativeLayout](images/relativelayout.png)
 
 ---
 
@@ -75,9 +72,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - `shrinkColumns`: Permite que colunas específicas sejam reduzidas quando necessário.
 
 #### Exemplo Visual:
-![Texto Alternativo](caminho/para/imagem.extensão)
-
-*(Adicione aqui uma imagem do exemplo com TableLayout)*
+![TableLayout](images/tablelayout.png)
 
 ---
 
@@ -90,9 +85,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - Suporte para *Guidelines* e *Chains* para alinhamento avançado.
 
 #### Exemplo Visual:
-![Texto Alternativo](caminho/para/imagem.extensão)
-
-*(Adicione aqui uma imagem do exemplo com ConstraintLayout)*
+![ConstraintLayout](images/constraintlayout.png)
 
 ---
 
@@ -105,7 +98,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - `contentPadding`: Define o espaço interno dentro do CardView.
 
 #### Exemplo Visual:
-*(Adicione aqui uma imagem demonstrando o uso do CardView)*
+![CardView](images/cardview.png)
 
 ---
 
@@ -117,7 +110,7 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   - Funciona automaticamente quando o conteúdo excede os limites da tela.
 
 #### Exemplo Visual:
-*(Adicione aqui uma imagem demonstrando o uso do ScrollView)*
+![ScrollView](images/scrollview.png)
 
 ---
 
@@ -144,6 +137,8 @@ O projeto apresenta exemplos práticos de cada gerenciador de layout e explica s
   `android:paddingEnd="8dp"`
   `android:paddingTop="16dp"`
   `android:paddingBottom="16dp"`
+
+  ![MarginPadding](images/margin-padding.png)
 
 ---
 
